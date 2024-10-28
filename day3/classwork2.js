@@ -158,15 +158,34 @@
 // console.log(arr);
 
 
-let arr = [10,200,3000,400,50000,600,70,80,9];
-// let splice = arr.slice(0,9);
+// let arr = [10,200,3000,400,50000,600,70,80,9];
+// // let splice = arr.slice(0,9);
 
-// console.log(splice);
-// console.log(arr);
-console.log(arr.sort(function(a,b) {
-   return a-b;
-}));
+// // console.log(splice);
+// // console.log(arr);
+// console.log(arr.sort(function(a,b) {
+//    return a-b;
+// }));
+// let a = "Ashutosh";
+// let b = 'when you get job';
+// let c=  `tell me looser`;
 
+// let d = `${a} ${b} ${c}Complete your pending videos atleast`;
+// // console.log(d[3]);
+// let i = 0;
+// while (i <d.length) {
+//    console.log(d.toLowerCase(i));
+//    i++;
+// }
+
+
+let a = "The Ashutosh";
+let b = "do";
+let c = "nothing";
+let d = `${a} ${b} ${c}`;
+let search = "Ashutosh";
+let replace= "Richa";
+console.log(d.replace(search, replace));
 
 
   

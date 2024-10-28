@@ -8,10 +8,10 @@ This project demonstrates how to dynamically change the style of a div element u
 2. The styles of the div element will be automatically updated as per the DOM manipulation.
 
 ## Hosted Version
-[Live Project Link](your-hosted-link-here)
+[Live Project Link](https://ashudevtech.github.io/DOM-Project/)
 
 ## GitHub Repository
-[GitHub Repository](your-github-repo-link-here)
+[GitHub Repository](https://github.com/Ashudevtech/DOM-Project)
 
 ## Instructions
 - The project is hosted via GitHub Pages. Simply click the live link above to view it in action.
