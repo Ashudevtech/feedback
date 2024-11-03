@@ -179,13 +179,22 @@
 // }
 
 
-let a = "The Ashutosh";
-let b = "do";
-let c = "nothing";
-let d = `${a} ${b} ${c}`;
-let search = "Ashutosh";
-let replace= "Richa";
-console.log(d.replace(search, replace));
+// let a = "The Ashutosh";
+// let b = "do";
+// let c = "nothing";
+// let d = `${a} ${b} ${c}`;
+// let search = "Ashutosh";
+// let replace= "Richa";
+// console.log(d.replace(search, replace));
 
 
   
+// let arr = [10,20,50,80,50,90];
+// let slice = arr.splice(1,3)
+// // console.log(slice);
+// console.log(arr);
+
+// let a = "Batch not going well i want to quit this batch";
+// let b = "i dont want to study anuymore"
+// let c = `${a} ${b}`
+// console.log(c.replace("not","geekster"));
